@@ -2,7 +2,7 @@
 --Include evidence (If possible in video form)--
 --Also include chat logs if you want--
 
---Also you can change the link if you want--
+--Also you can change the link to make your own if you want--
 
 local HttpService = game:GetService("HttpService")
 
